@@ -43,7 +43,7 @@
 
 #### 🐧 &nbsp;Operating Systems
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
-![Mac](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=mac)&nbsp;
+![Mac](https://img.shields.io/badge/-Mac-05122A?style=flat&logo=mac)&nbsp;
 
 <br />
 
