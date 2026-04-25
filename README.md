@@ -3,10 +3,6 @@
 </p>
 
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/y5OffROvBod0s/giphy.gif"  />
-</div>
-
-<div align="center">
 
 ##  Hello World, I'm Taha!! 👋
 
@@ -59,7 +55,7 @@
 
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Raminhrd&show_icons=true&theme=tokyonight&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api?username=TahaNsl&show_icons=true&theme=tokyonight&hide_border=true"
   alt="Taha's GitHub Stats"
 />
 
